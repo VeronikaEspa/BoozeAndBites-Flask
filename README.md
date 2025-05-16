@@ -1,5 +1,7 @@
 # Booze And Bites - Back en Flask
-Este es un proyecto backend básico utilizando **Flask** y **GraphQL**, que simula una API para la gestión de productos. Puedes consultar y modificar productos con campos como `nombre`, `precio`, `stock`, y `disponible`.
+
+Este es un proyecto backend básico utilizando **Flask** y **GraphQL**, que simula una API para la gestión de productos. Puedes consultar y modificar productos con campos como nombre, precio, stock, y disponibilidad.
+
 ---
 ## Requisitos
 - Python 3.10 o superior
