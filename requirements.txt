@@ -1,2 +1,4 @@
-Flask
-graphene
+Flask==3.0.3
+graphene==3.4.3
+flask-cors==5.0.0
+pytest===8.3.5
